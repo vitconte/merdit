@@ -4,11 +4,13 @@ Only for Italy.
 
 Contact Merdit (https://t.me/merdit_bot) and send him a train number 
 
-# How does it work
+How does it work
+----------------
 Merdit use viaggiatreno.it API to obtain train info
 and use telepot library (https://github.com/nickoala/telepot) for telegram api interaction
 
-# Python modules
+Python modules
+--------------
 - request 
     pip install request
 - telepot 
